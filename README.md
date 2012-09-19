@@ -15,4 +15,4 @@ and use
  - `^R` to run (`make run`)
  - `^X` for some default action (`ls -l`)
 
-Every command can be customized by adapting the environment variables `DO_CLEAN`, `DO_BUILD`, `DO_INSTALL`, `DO_RUN`, and `DO_DEFAULT`, respectively. In the best case with [sustainable paths](https://github.com/benozol/paths).
+Every command can be customized by adapting the environment variables `DO_CLEAN`, `DO_BUILD`, `DO_INSTALL`, `DO_RUN`, and `DO_DEFAULT`, respectively. In the best case with the [sustainable environment](https://github.com/benozol/sustainable-environment).
